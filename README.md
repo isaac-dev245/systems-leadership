@@ -1,7 +1,7 @@
 # Systems Leadership: Deming, RFC 1925, Unix Philosophy, and Cantrill
 *A framework for leading complex sociotechnical systems*
 ---
-### On the Structure of This Document
+## On the Structure of This Document
 Bryan Cantrill draws a distinction between principles, values, and mission.  Principles are universal truths, constraints on behaviour that hold true regardless of the context.  Values are expressions of importance; priorities that define what you optimize for when forced to choose.  Mission is the “why”, it provides direction to both.
 This matters because most organizations confuse the three.  They write “values” statements full of principles, in the name of integrity, and subsequently principles that are full of values.  If you treat a value as a principle, you stop making tradeoffs.  If you treat a principle as a value, you end up negotiating with things that should not be negotiable.
 Four traditions, developed independently across manufacturing, internet engineering, operating systems, and infrastructure compute, converge on remarkably similar insights about complex systems.  W.  Edwards Deming’s management philosophy was realized through statistical quality control.  RFC 1925 crystallized from hard-won lessons learned in building the Internet.  The Unix Philosophy codified what made an OS survive across decades.  Bryan Cantrill’s body of work, from his development of DTrace at Sun through Joyent and on to Oxide Computer, adds the connective tissues: why these insights are so hard to follow, and what it looks like when organizations actually live their values.
