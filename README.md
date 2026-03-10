@@ -10,7 +10,7 @@ Bryan Cantrill draws a distinction between principles, values, and mission. Prin
 
 This matters because most organizations confuse the three. They write "values" statements full of principles, in the name of integrity, and subsequently principles that are full of values. If you treat a value as a principle, you stop making tradeoffs. If you treat a principle as a value, you end up negotiating with things that should not be negotiable.
 
-Four traditions, developed independently across manufacturing, internet engineering, operating systems, and infrastructure compute, converge on remarkably similar insights about complex systems. W. Edwards Deming's management philosophy was realized through statistical quality control. RFC 1925 crystallized from hard-won lessons learned in building the Internet. The Unix Philosophy codified what made an OS survive across decades. Bryan Cantrill's body of work, from his development of DTrace at Sun through Joyent and on to Oxide Computer, adds the connective tissues: why these insights are so hard to follow, and what it looks like when organizations actually live their values.
+Four traditions, developed independently across manufacturing, internet engineering, operating systems, and infrastructure compute, converge on remarkably similar insights about complex systems. W. Edwards Deming's management philosophy was realized through statistical quality control. RFC 1925 crystallized from hard-won lessons learned in building the Internet. The Unix Philosophy codified what made an OS survive across decades. Bryan Cantrill's body of work, from his development of DTrace at Sun Microsystems, through Joyent, and on to Oxide Computer, adds the connective tissues: why these insights are so hard to follow, and what it looks like when organizations actually live their values.
 
 Together they form a framework for leading and managing complex systems. It applies to networks, datacenters, organizations, and the messy places where all three intersect.
 
@@ -45,7 +45,7 @@ Deming's 14 points for management create these pillars:
 
 ### RFC 1925: The Twelve Networking Truths
 
-Published April 1, 1996 — on April Fools' Day, because the truths are funny right up until they aren't.
+Published April 1, 1996, April Fools' Day, because the truths are funny right up until they aren't.
 
 1. It Has to Work.
 2. No matter how hard you push and no matter what the priority, you can't increase the speed of light.
@@ -71,7 +71,7 @@ These truths were written about networking. They apply to every complex system h
 
 The Unix Philosophy emerged from the design of Unix at Bell Labs in the 1970s and was refined over decades by McIlroy, Thompson, Kernighan, Pike, and Raymond, among others. Its core tenets:
 
-**Make each program do one thing well.** To do a new job, build fresh rather than complicate older systems by adding new "features"
+**Make each program do one thing well.** To do a new job, build fresh rather than complicate older systems by adding new "features".
 
 **Expect the output of every program to become the input to another.** Don't clutter the outputs with trivial information, don't insist on interactive input.
 
@@ -103,7 +103,7 @@ Bryan Cantrill's contributions span DTrace at Sun Microsystems, Joyent, and Oxid
 
 ## Part II: Principles
 
-Principles are constraints. They hold whether you acknowledge them or not. You don't choose them; you choose whether to respect them. These are the principles all four traditions converge on.
+Principles are constraints. They hold true whether you acknowledge them or not. You don't choose them; you choose whether to respect them. These are the principles all four traditions converge on.
 
 ### It Has To Work
 
