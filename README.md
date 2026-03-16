@@ -54,7 +54,7 @@ Published April 1, 1996, April Fools' Day, because the truths are funny right up
 4. Some things in life can never be fully appreciated nor understood unless experienced firsthand. Some things in networking can never be fully understood by someone who neither builds commercial networking equipment nor runs an operational network.
 5. It is always possible to agglutinate multiple separate problems into a single complex interdependent solution. In most cases this is a bad idea.
 6. It is easier to move a problem around than it is to solve it.
-   - It is always possible to add another level of indirection.
+   - It is always possible to add another level of misdirection.
 7. It is always something.
    - Good, Fast, Cheap: Pick any two (you can't have all three).
 8. It is more complicated than you think.
